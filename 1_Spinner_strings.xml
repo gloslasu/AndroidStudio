@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PrzepisNaWino</string>
+    <string name="pokaz_przepis">Pokaż przepis !</string> // button
+
+    <string-array name="wybierz_wino">
+        <item>[1]Agrest</item>
+        <item>[2]Aronia</item>
+        <item>[3]Głóg i dzika róża</item>
+        <item>[4]Jabłka</item>
+        <item>[5]Wiśnie</item>
+        <item>[6]Porzeczki</item>
+        <item>[7]Winogrona</item>
+        <item>[8]Rodzynki</item>
+        <item>[9]Jeżyny</item>
+        <item>[10]Czarny bez</item>
+
+    </string-array>
+
+
+</resources>
